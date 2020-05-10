@@ -20,7 +20,7 @@ pip install py4knn
 ```
 
 ### Usage
-Coming Soon
+There is only 1 method public method of knn class. It is predict method, it takes 5 argument namely x_train, t_train, x_test, k, and distance calculation method. We provide 6 distance namely euclidean, squared_euclidean, manhattan, canberra, chebyshev, and bray_curtis.
 ```
 from py4knn.k_nearest_neighbors import knn
 classifier = knn()
