@@ -1,4 +1,4 @@
-# py4stat
+# py4knn
 
 K-Nearest Neighbors Python Library
 
