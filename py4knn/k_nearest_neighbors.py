@@ -1,4 +1,4 @@
-from distance import *
+from py4knn.distance import *
 class knn:
     def __init__(self):
         pass
